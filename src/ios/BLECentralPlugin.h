@@ -64,8 +64,6 @@
 - (void)startStateNotifications:(CDVInvokedUrlCommand *)command;
 - (void)stopStateNotifications:(CDVInvokedUrlCommand *)command;
 
-- (void)showBluetoothSettings:(CDVInvokedUrlCommand *)command;
-
 - (void)onReset;
 
 - (void)readRSSI:(CDVInvokedUrlCommand *)command;
